@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "QR Code Generator",
+            "description": "JavaScript, HTML, CSS",
+            "url": "https://qr-code-generator-mns.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "QR Code Generator",
+            "description": "JavaScript, HTML, CSS",
+            "url": "https://qr-code-generator-mns.netlify.app/"
+        }
+    ]
+}

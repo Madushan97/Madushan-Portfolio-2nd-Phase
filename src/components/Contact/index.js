@@ -52,8 +52,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in freelance opportunities as well as internships regarding Frontend Developing - especially on ambitious
-                        or large projects. However, if you have any other requests or
+                        I am interested in internships regarding Frontend Developing, as well as Associate software Developer . However, if you have any other requests or
                         questions, don't hesitate to contact me using below form either.
                     </p>
 
